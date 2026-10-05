@@ -11,6 +11,10 @@ Connect an agent to people who can visit a site, photograph equipment, perform a
 
 This repository contains integration examples and discovery metadata, not the production server implementation. No installation or npm package is required to connect a compatible remote MCP client.
 
+## Registry listing
+
+Published as `com.agentgroundcrew/field-services` version `1.0.0` in the [official MCP Registry](https://registry.modelcontextprotocol.io/?q=com.agentgroundcrew%2Ffield-services). Listing is discovery metadata, not an endorsement or guarantee of service quality.
+
 ## Try it without creating a task
 
 Requires Node.js 22 or newer. No dependencies or API keys.
