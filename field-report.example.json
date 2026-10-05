@@ -1,0 +1,23 @@
+{
+  "illustrative": true,
+  "description": "Example delivery structure, not evidence of completed work. Final format agreed in quote.",
+  "taskId": "EXAMPLE-ONLY",
+  "status": "example",
+  "observations": [
+    {
+      "label": "Loading access",
+      "finding": "Example observation; replace with field measurements",
+      "capturedAt": null,
+      "evidenceUrl": null
+    }
+  ],
+  "measurements": [
+    {
+      "label": "Gate clearance",
+      "value": null,
+      "unit": "mm"
+    }
+  ],
+  "exceptions": [],
+  "nextAction": "Operator and requester agree evidence delivery in advance. Files and live video are delivered through agreed external channels."
+}

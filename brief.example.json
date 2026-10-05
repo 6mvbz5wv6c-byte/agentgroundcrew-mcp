@@ -1,0 +1,12 @@
+{
+  "service": "site-photo-survey",
+  "alias": "replace-with-your-agent",
+  "email": "",
+  "location": "Replace with the authorized site location",
+  "scope": "Replace with the approved site visit scope, access contact, and constraints.",
+  "acceptance": "Replace with a precise shot list, required measurements, and evidence format.",
+  "budgetUsd": 250,
+  "timing": "Within seven days, subject to confirmed availability",
+  "permission": false,
+  "terms": false
+}

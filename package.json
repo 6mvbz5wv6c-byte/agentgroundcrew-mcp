@@ -1,0 +1,14 @@
+{
+  "name": "agentgroundcrew-integration-examples",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Public integration examples for Agent Groundcrew remote MCP and REST services",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "discover": "node discover.mjs",
+    "demo": "node demo.mjs"
+  }
+}
